@@ -85,7 +85,7 @@ THEN I am logged out of the site and presented with a menu with the options Sear
 [Repository Link 'Click Here'.](https://github.com/MaxKeable/Book-Search)
 
 ## Deployed Applicaiton 
-[Click Here to view deployed app.](******************)
+[Click Here to view deployed app.](https://my-book-search-app-9b6912dfb3f2.herokuapp.com/)
 
 ## Screenshots.
 ### Figure 1 Application text editor
